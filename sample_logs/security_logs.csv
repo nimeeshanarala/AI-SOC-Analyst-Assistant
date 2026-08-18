@@ -1,0 +1,12 @@
+Timestamp,User,Event,IP
+2026-07-20 10:01:12,alice,Login Success,192.168.1.5
+2026-07-20 10:02:30,bob,Login Failed,192.168.1.8
+2026-07-20 10:04:05,admin,PowerShell Executed,10.0.0.15
+2026-07-20 10:05:11,charlie,Login Failed,192.168.1.8
+2026-07-20 10:07:19,bob,Login Failed,192.168.1.8
+2026-07-20 10:08:01,david,New User Created,10.0.0.22
+2026-07-20 10:10:45,eve,File Deleted,172.16.0.3
+2026-07-20 10:12:14,admin,Firewall Disabled,10.0.0.15
+2026-07-20 10:15:00,bob,Login Success,192.168.1.8
+2026-07-20 10:18:37,guest,Multiple Failed Logins,203.0.113.25
+
